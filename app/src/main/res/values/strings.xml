@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalSelfEnergy</string>
+
+    <string name="nb_steps_oms">10000</string>
+    <string name="goal_preference" />
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
